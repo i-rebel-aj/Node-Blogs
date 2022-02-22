@@ -1,3 +1,4 @@
 #Ignoring Virtual Env
 flask-api/
 **/__pycache__
+.env
