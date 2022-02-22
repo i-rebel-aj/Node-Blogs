@@ -1,5 +1,0 @@
-[PROD]
-DB_URI = 'mongodb+srv://amartya:amartya@cluster0.haa9f.mongodb.net/colexion?retryWrites=true&w=majority'
-
-[TEST]
-DB_URI = 'mongodb+srv://amartya:amartya@cluster0.haa9f.mongodb.net/colexion?retryWrites=true&w=majority'
